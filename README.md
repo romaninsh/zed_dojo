@@ -1,4 +1,4 @@
-This is a simple app I wrote to help me learn Zed.
+This is a simple Rust app I wrote to help me learn Zed key bindings.
 
 1. Clone this repo
 2. Open in Zed
@@ -25,7 +25,9 @@ Contributions are welcome. Please open an issue or raise a PR.
 - [ ] Add more tasks
 - [ ] Allow multiple matches or negative matches
 - [ ] Allow multi-line matches
-- [ ] Implement conditions
+- [ ] Implement conditions (e.g. mac, linux)
+- [ ] Read content from sub-folders
+- [ ] Store levels in memory for efficiency
 
 ## License
 

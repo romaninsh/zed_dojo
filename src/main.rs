@@ -3,7 +3,7 @@ use mlua::prelude::*;
 use notify::{Config, EventKind, RecommendedWatcher, RecursiveMode, Watcher};
 use rand::seq::SliceRandom;
 use regex::{Captures, Regex};
-use std::{fs, path::Path, sync::mpsc::channel, thread::sleep, time::Duration};
+use std::{fs, path::Path, sync::mpsc::channel};
 
 #[derive(Debug, Clone)]
 struct Level {
