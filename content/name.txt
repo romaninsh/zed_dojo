@@ -1,0 +1,10 @@
+conditions = {}
+completion = " \\S+\\.$"
+capture = {
+  name = " (\\S+)\\.$"
+}
+---
+Nice to meet you, my name is .
+
+Hint: keys f . i YourName <esc> Cmd+S
+Hint: if your cursor is on a different line: / \ . $ <enter> i YourName <esc> Cmd+S

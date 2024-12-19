@@ -1,0 +1,13 @@
+conditions = {}
+completion = "(?i)->[ ]*ok"
+---
+Welcome to Zed tutorial!
+
+You will be presented with a series of exercises. Complete each to advance to next level.
+
+Try to use minimum keystrokes. You'll will see hints to complete each level optimally,
+so just train yur muscle memory, ok?
+
+Type "ok" at the end of this line, then save ->
+
+Hint: use "j k" keys then A o k <esc>

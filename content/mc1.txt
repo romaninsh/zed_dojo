@@ -1,0 +1,12 @@
+conditions = {}
+completion = "- chess;"
+---
+My favourite games are:
+
+- Minecraft
+- Minesweeper
+- Tetris
+- Chess
+
+Task: lowercase first letters and add semicolon at the end of each line.
+Hint: / - <enter> cmd-shift-l w u A ;

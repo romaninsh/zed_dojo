@@ -1,0 +1,16 @@
+conditions = {}
+completion = "one, two, three, four, five, six, seven"
+---
+seven,
+one,
+two,
+three,
+four,
+five,
+six,
+
+
+Task: move "seven" to the end of the list, then combine it to one line.
+Hint: opt-down - moves current line down.
+Hint: cmd-shift-up - selects lines above.
+Hint: J - join lines together.
